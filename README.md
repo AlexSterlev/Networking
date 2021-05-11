@@ -30,3 +30,6 @@ centralServer
 office1Server
 office2Server
 ````
+|**Диапозон IP**|172.16.121.16/30|
+|**Адресов**|2|
+|**Broadcast**|172.16.121.19|
