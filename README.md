@@ -1,6 +1,6 @@
 # Networking
 ## Архитектура сети.
-
+````
 Сеть office1
 
 192.168.2.0/26 - dev
@@ -29,3 +29,4 @@ office2Router
 centralServer
 office1Server
 office2Server
+````
